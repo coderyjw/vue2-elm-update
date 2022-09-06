@@ -14,6 +14,7 @@
     "fastclick": "^1.0.6",
     "iscroll": "^5.2.0",
     "showdown": "^1.6.4",
+    "thread-loader": "^3.0.4",
     "vue": "^3.2.38",
     "vue-router": "^4.1.5",
     "vuex": "^4.0.2"
